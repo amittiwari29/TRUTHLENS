@@ -1,0 +1,71 @@
+# Git ignore for TruthLens project
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+.venv/
+.pip_tmp/
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+report.pdf
+candidate.jpg
+candidate_processed.jpg
+data/
+!data/.keep
+*.h5
+*.model
+*.weights
+*.pkl
+
+# Ignored from final repo submission
+TruthLens_Submission/
+scratch/
+app.py
+generate_ai_video.py
+render_ui_video.py
+run_emotion.py
+train.py
+train_all.py
+train_all_mlx.py
+train_mlx.py
+download_dataset.py
+prepare_data.py
+test_*.py
