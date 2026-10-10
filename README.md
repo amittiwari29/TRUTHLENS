@@ -68,4 +68,4 @@ Our proprietary AI pipeline processes video frames in parallel to the interview 
 ---
 
 **Developed for the future of recruitment.** 
-*Contact: [2601harshitraj@gmail.com](mailto:2601harshitraj@gmail.com)*
+*Contact: [amittiwari29705@gmail.com](mailto:amittiwari29705@gmail.com)*
